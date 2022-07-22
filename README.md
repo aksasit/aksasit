@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I'm Asit Kumar Sahoo</h1>
-<h3 align="center">A passionate Coder and Software developer from India.</h3>
+<h3 align="center">A Passionate Coder and a Software developer from India.</h3>
 
 - 👀 I’m currently a Pre-final year student at IIT Ropar ...
 - 💻 I'm proficient in C,C++ Language and familiar with Python,HTML,CSS... 
