@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asit Kumar Sahoo</h1>
 <h3 align="center">🎓 I am an IIT Ropar Graduate passionate about building scalable applications and exploring cutting-edge technologies with experience in building production-grade applications using Golang, Python, Javascript, Node.js, Express.js, FastAPI, Git and GitHub, Docker, AWS, OpenAI, vector databases, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, RabbitMQ and Bullmq and more. I thrive on solving challenging problems and contributing to impactful projects. Let’s build something amazing together! 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank-vishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-vishwakarma" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksasit&label=Profile%20views&color=0e75b6&style=flat" alt="aksasit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank-vishwakarma" alt="shashank-vishwakarma" /></a> </p>
 
