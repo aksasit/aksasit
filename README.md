@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aksasit](https://github.com/aksasit)
 
-- 💬 Ask me about **Backend Development technologies, System design**
+- 💬 Ask me about **Backend Development technologies, System design, Data & AI**
 
 - 📫 How to reach me **sahooasit621@gmail.com**
 
