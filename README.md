@@ -1,7 +1,3 @@
-<img width=100% src = "https://github.com/sagalpreet/sagalpreet/blob/main/assets/cover.jpg">
-
-
-
 <h2 align="center">Hi 👋, I'm Asit Kumar Sahoo</h2>
 <div align="center">🎓 I am an IIT Ropar Graduate passionate about building scalable applications and exploring cutting-edge technologies with experience in building production-grade applications using Golang, Python, Javascript, Node.js, Express.js, FastAPI, Git and GitHub, Docker, AWS, OpenAI, vector databases, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, RabbitMQ and Bullmq and more. I thrive on solving challenging problems and contributing to impactful projects. Let’s build something amazing together! 🚀</div>
 <br>
@@ -43,9 +39,9 @@ Reach me at **sahooasit621@gmail.com**
 <hr>
 
 <p align="center">
-<!--  <a href="https://drive.google.com/file/d/14YKH8mbfY3H2kkbK2rImHjZwbBcbdUTl/view?usp=sharing">
+ <a href="https://drive.google.com/drive/folders/1bNj-WRQlo-eceergp_9lUeIkHrHw2sj8?usp=sharing">
  <img src="https://img.shields.io/badge/-Resume-silver?style=flat-square&logo=appveyor" />
- </a> -->
+ </a>
  <img src="https://komarev.com/ghpvc/?username=aksasit&label=Profile%20views&color=0e75b6&style=flat" alt="aksasit" />
  <a href="https://sagalpreet.github.io" >
  <img src="https://img.shields.io/badge/-Visit_my_Website-0697AE?style=flat-square&logo=appveyor&logoColor=white&link=https://sagalpreet.github.io/portfolio">
