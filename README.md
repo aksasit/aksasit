@@ -1,16 +1,23 @@
+<img width=100% src = "https://github.com/sagalpreet/sagalpreet/blob/main/assets/cover.jpg">
+
+
+
 <h2 align="center">Hi 👋, I'm Asit Kumar Sahoo</h2>
 <div align="center">🎓 I am an IIT Ropar Graduate passionate about building scalable applications and exploring cutting-edge technologies with experience in building production-grade applications using Golang, Python, Javascript, Node.js, Express.js, FastAPI, Git and GitHub, Docker, AWS, OpenAI, vector databases, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, RabbitMQ and Bullmq and more. I thrive on solving challenging problems and contributing to impactful projects. Let’s build something amazing together! 🚀</div>
+<br>
 
 
-- 🔭 I’m currently working on projects - [Netflix-DBT](https://github.com/aksasit/netflix-dbt)
+```python
+Asit = {
+    code: [Python, Java, CPP],
+    interests: ['maths', 'ai', 'systems'],
+    talks_about: ['anything', 'everything'],
+    education: {'btech': ['IIT Ropar']}
+}
+# resume exists for a reason xD
+```
 
-- 🌱 I’m currently learning **DBT and Generative AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/aksasit](https://github.com/aksasit)
-
-- 💬 Ask me about **Backend Development technologies, System design, Data & AI**
-
-- 📫 How to reach me **sahooasit621@gmail.com**
+Reach me at **sahooasit621@gmail.com**
 
 <div align="center">
 
