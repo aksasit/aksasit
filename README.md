@@ -17,15 +17,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksasit&layout=compact&theme=dark&bg_color=151515&text_color=fff" alt="Most Used Languages" width="420" height="165"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksasit&layout=compact&theme=dark&bg_color=151515&text_color=fff" alt="Most Used Languages"  height="165"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aksasit&show_icons=true&theme=dark&bg_color=151515&text_color=fff" alt="GitHub Stats" width="420" height="165"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=aksasit&show_icons=true&theme=dark&bg_color=151515&text_color=fff" alt="GitHub Stats"  height="165"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=aksasit&theme=dark&background=151515&currStreakNum=fff&sideNums=fff&sideLabels=fff&currStreakLabel=fff" alt="GitHub Streak Stats" width="870" height="165"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=aksasit&theme=dark&background=151515&currStreakNum=fff&sideNums=fff&sideLabels=fff&currStreakLabel=fff" alt="GitHub Streak Stats"  height="165"/>
     </td>
   </tr>
 </table>
