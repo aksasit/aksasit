@@ -6,7 +6,7 @@
 ```python
 Asit = {
     code: [Python, Java, CPP],
-    interests: ['maths', 'ai', 'systems'],
+    interests: ['maths', 'ai', 'machine learning', 'LLM'],
     talks_about: ['anything', 'everything'],
     education: {'btech': ['IIT Ropar']}
 }
