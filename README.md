@@ -43,7 +43,7 @@ Reach me at **sahooasit621@gmail.com**
  <img src="https://img.shields.io/badge/-Resume-silver?style=flat-square&logo=appveyor" />
  </a>
  <img src="https://komarev.com/ghpvc/?username=aksasit&label=Profile%20views&color=0e75b6&style=flat" alt="aksasit" />
- <a href="https://sagalpreet.github.io" >
+ <a href="https://medium.com/@sahooasit621" >
  <img src="https://img.shields.io/badge/-Visit_my_Website-0697AE?style=flat-square&logo=appveyor&logoColor=white&link=https://sagalpreet.github.io/portfolio">
  </a>
  <a href="mailto:sahooasit621@gmail.com">
