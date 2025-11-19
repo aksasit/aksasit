@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Asit Kumar Sahoo</h2>
-<div align="center">🎓 I am an IIT Ropar Graduate passionate about building scalable applications and exploring cutting-edge technologies with experience in building production-grade applications using Python, Typescript, Node.js, Express.js, FastAPI, Git and GitHub, Docker, AWS, OpenAI, vector databases, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka. I thrive on solving challenging problems and contributing to impactful projects. Let’s build something amazing together! 🚀</div>
+<div align="center">🎓 I am an IIT Ropar Graduate passionate about building scalable applications and exploring cutting-edge technologies with experience in building production-grade applications using Python, Typescript, Node.js, Express.js, FastAPI, Git and GitHub, Docker, AWS, OpenAI, vector databases, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka. Currently I am diving deep into the realm of AI Engineering, learning how to built Agentic AI using Langchain, Langgraph, Langsmith. I thrive on solving challenging problems and contributing to impactful projects. Let’s build something amazing together! 🚀</div>
 <br>
 
 
