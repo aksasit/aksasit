@@ -3,7 +3,7 @@
 <br>
 
 
-```python
+```pyt
 Asit = {
     code: [Python, Java, CPP],
     interests: ['maths', 'ai', 'machine learning', 'LLM', 'Agentic AI'],
