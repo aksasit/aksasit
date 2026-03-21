@@ -1,19 +1,32 @@
-<h2 align="center">Hi 👋, I'm Asit Kumar Sahoo</h2>
-<div align="center">🎓 I am an IIT Ropar Graduate passionate about building scalable applications and exploring cutting-edge technologies with experience in building production-grade applications using Python, Typescript, Node.js, Express.js, FastAPI, Git and GitHub, Docker, AWS, OpenAI, vector databases, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka. Currently I am diving deep into the realm of AI Engineering, learning how to built Agentic AI using Langchain, Langgraph, Langsmith. I thrive on solving challenging problems and contributing to impactful projects. Let’s build something amazing together! 🚀</div>
-<br>
+<div align="center">
+
+# Hi, I'm Asit Kumar Sahoo
+
+**Data Scientist · ML Engineer · MLOps · DL Engineer · Agentic AI Systems · Data Engineer**
+
+[linkedin](https://www.linkedin.com/in/asit-kumar-sahoo/) · [github](https://github.com/aksasit) · [X](https://x.com/AsitKumarAKS) · [email](sahooasit@gmail.com)
+
+</div>
+
+---
+
+⚙️ my goto stack
+
+`python` · `fastapi` · `docker` · `langchain` · `langgraph` · `mlflow` · `airflow` · `opensearch` · `xgboost` · `pytorch` · `postgresql` · `redis` · `prometheus` · `grafana` · `langsmith` · `qdrant` · `pgvector` · `AWS` · `Kafka`  · `Azure`  · `snowflake` · `data build tool` · `SQL`  · `AWS` 
+
+---
+
 
 
 ```pyt
 Asit = {
     code: [Python, Java, CPP],
-    interests: ['maths', 'ai', 'machine learning', 'LLM', 'Agentic AI'],
+    interests: ['AI', 'machine learning', 'Deep Learning', 'Reinforcement Learning', 'LLM', 'Agentic AI', 'Computer Vision', 'maths'],
     talks_about: ['anything', 'everything'],
     education: {'btech': ['IIT Ropar']}
 }
 # resume exists for a reason xD
 ```
-
-Reach me at **sahooasit621@gmail.com**
 
 <div align="center">
 
